@@ -1,3 +1,5 @@
+The very first step!
+
 Foundational Topics Numerical Order.
 
 1.)Intro to Ethereum
