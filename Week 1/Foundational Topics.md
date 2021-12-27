@@ -1,6 +1,6 @@
-The very first step!
-
 ```Foundational Topics Numerical Order```
+
+![Foundation Topics](https://user-images.githubusercontent.com/59753390/147512134-a12912b2-acea-4531-87a0-fc03790f4370.JPG)
 
 1.) Intro to Ethereum
 2.) Intro to Ether
