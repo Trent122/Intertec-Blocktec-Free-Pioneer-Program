@@ -1,20 +1,22 @@
 The very first step!
 
-Foundational Topics Numerical Order.
+```Foundational Topics Numerical Order```
 
-1.)Intro to Ethereum
-2.)Intro to Ether
-3.)Intro to Dapps 
-4.)Web2 vs Web3
-5.)Accounts
-6.)Transactions
-7.)Blocks
-8.)Ethereum Virtual Machine(EVM)
-9.)Gas
-10.)Node and Clients,Networks
-11.)Consensus Mechansims
+1.) Intro to Ethereum
+2.) Intro to Ether
+3.) Intro to Dapps 
+4.) Web2 vs Web3
+5.) Accounts
+6.) Transactions
+7.) Blocks
+8.) Ethereum Virtual Machine(EVM)
+9.) Gas
+10.) Node and Clients,Networks
+11.) Consensus Mechansims
 
-https://ethereum.org/en/developers/docs/intro-to-ethereum/
+Reading link for 1-11: https://ethereum.org/en/developers/docs/intro-to-ethereum/
+
+Visual Learners Austin Walkthrough : https://youtu.be/zcX7OJ-L8XQ
 
 Learning Solidity "Hello World" 1/32 Playlist
 https://youtu.be/hMwdd664_iw
