@@ -2,7 +2,7 @@
 
 Reading Link: https://ethereum.org/en/developers/docs/
 
-Video Link ```Learning Solidity By Example```: https://www.youtube.com/playlist?list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz
+Video Link ```Value Types | Solidity 0.8``` 3/46 playlist: https://youtu.be/8Tj-Th_S7NU
 
 1.) **Intro to the stack**
 
