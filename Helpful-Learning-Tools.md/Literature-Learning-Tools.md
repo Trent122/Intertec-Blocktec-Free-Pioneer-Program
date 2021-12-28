@@ -15,7 +15,7 @@ https://www.cram.com/flashcards/solidity-by-example-flashcards-12486872
 
 https://docs.soliditylang.org/en/v0.8.9/cheatsheet.html
 
-# Solidity By Live Example
+# Solidity By Example
 
 https://solidity-by-example.org/
 
