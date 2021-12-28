@@ -19,6 +19,10 @@ https://docs.soliditylang.org/en/v0.8.9/cheatsheet.html
 
 https://solidity-by-example.org/
 
+# Solidity 100 questions Easy-Difficult
+https://eattheblocks.com/the-ultimate-collection-of-solidity-interview-questions/
+
+
 
 
 ![Resourcelist](https://user-images.githubusercontent.com/59753390/147586442-b4fd360a-4835-4c4f-9f02-796b7e624409.JPG)
