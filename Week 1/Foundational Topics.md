@@ -16,7 +16,7 @@
 
 Reading link for 1-11: https://ethereum.org/en/developers/docs/intro-to-ethereum/
 
-Visual Learners Austin Walkthrough : https://youtu.be/zcX7OJ-L8XQ
+Visual Learners Blockchain-ETH.BUILD : https://youtu.be/zcX7OJ-L8XQ
 
 Learning Solidity "Hello World" 1/32 Playlist
 https://youtu.be/hMwdd664_iw
