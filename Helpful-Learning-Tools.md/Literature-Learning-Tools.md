@@ -2,7 +2,7 @@
 
 
 
- # Smart Contract Engineer Roadmap
+ # Smart Contract Engineer Roadmap 2020 (Still VERY relevant in 2022)
 
 https://coggle.it/diagram/Xq5IQ3YX2vfyC5AV/t/smart-contract-engineer-2020/4c383e8825cdb7dae593f9c293cae283545becfbb921e57257f5e1cc94fcd963
 
