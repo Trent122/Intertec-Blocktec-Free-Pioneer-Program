@@ -1,3 +1,3 @@
 # Advanced Solidity Path: Get in Depth Knowleage!
 
-## Lessons 1-2
+## Lessons 1-3
