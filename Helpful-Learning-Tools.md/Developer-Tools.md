@@ -8,3 +8,10 @@
 Welcome to our curated list of community tutorials.
 
 https://ethereum.org/en/developers/tutorials/
+
+# Awesome Open Source blockchain-projects!
+
+(Combind topics: Blockchain,Ethereum,Git)
+
+https://awesomeopensource.com/projects/blockchain
+
