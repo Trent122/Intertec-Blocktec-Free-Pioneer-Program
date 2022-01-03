@@ -9,7 +9,15 @@ Implementing a blockchain-based platform can bring in a change. With blockchain 
 investors can know to whom the money is going and how they are spending it.
 
 
-2.)
+## 2.) Exact Shipment Location Data / Owner Contract
+
+Most logistics companies today offer only the location details of main locations like collection centre, 
+city hubs and sorting facilities.
+
+#### Why Blockchain?
+
+Using blockchain, you can implement a system that collects location data from many interconnected systems and deliver exact location details to the customers. 
+The application of this project can be extended to other areas like airlines to find lost baggage, car rentals for tracking rented car etc.
 
 
 
