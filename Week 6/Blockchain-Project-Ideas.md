@@ -1,4 +1,4 @@
-# Default_Workspace Project ideas.
+# Default-Workspace Project ideas.
 
 ## 1.) Trusted Crowdfunding Platform Using a Smart Contract
 
