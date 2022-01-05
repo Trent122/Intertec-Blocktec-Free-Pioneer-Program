@@ -4,12 +4,15 @@ Welcome to the FREE repository of Intertec international blockchain learning! Wi
 this FREE curriculum is designed for a zero-hero type layout with 100% free resources provided by an excellent open-source community!
 
   # Table Of Contents Video
-  Time Stamps
+  
   
   https://youtu.be/UrDaRygjyWM
   
   Email: trent.manager@intertecintl.com
-  
+     
+   # Time Stamps
+    
+    
     0:00-0:50 Intro
 
     0:52-2:08 Week 1
