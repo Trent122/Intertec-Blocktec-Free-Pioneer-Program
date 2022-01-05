@@ -5,7 +5,7 @@ this FREE curriculum is designed for a zero-hero type layout with 100% free reso
 
   # Table Of Contents Video
 
-Inserted Here!
+https://youtu.be/UrDaRygjyWM
      
 
     
