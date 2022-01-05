@@ -4,8 +4,34 @@ Welcome to the FREE repository of Intertec international blockchain learning! Wi
 this FREE curriculum is designed for a zero-hero type layout with 100% free resources provided by an excellent open-source community!
 
   # Table Of Contents Video
+  Time Stamps
+  
+  https://youtu.be/UrDaRygjyWM
+  
+  Email: trent.manager@intertecintl.com
+  
+    0:00-0:50 Intro
 
-https://youtu.be/UrDaRygjyWM
+    0:52-2:08 Week 1
+
+    2:10-3:01 Week 2
+
+    3:05-3:41 Week 3
+
+    3:45-5:15 Resource List Top 4
+
+    :20-6:05 Week 4
+
+    6:10-6:50 Week 5
+
+    6:55-7:37 Week 6
+
+    8:00-9:05 Extra resource folders,tips,trick,help code along videos
+
+    9:08-End Outro
+
+  
+
      
 
     
