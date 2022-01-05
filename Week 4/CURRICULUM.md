@@ -1,4 +1,4 @@
-```CryptoZombies Learning Course```
+## Crypto-Zombies Learning Course
 
 # Lessons 4-6 Learn on your own pace!
 
