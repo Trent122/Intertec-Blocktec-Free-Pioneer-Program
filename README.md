@@ -20,7 +20,7 @@ this FREE curriculum is designed for a zero-hero type layout with 100% free reso
 
     3:45-5:15 Resource List Top 4
 
-    :20-6:05 Week 4
+    5:20-6:05 Week 4
 
     6:10-6:50 Week 5
 
