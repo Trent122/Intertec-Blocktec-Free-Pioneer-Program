@@ -3,7 +3,8 @@
 Welcome to the FREE repository of Intertec international blockchain learning! Within this repo, you will find an array of videos, readings, projects & reports
 this FREE curriculum is designed for a zero-hero type layout with 100% free resources provided by an excellent open-source community!
 
-  # Table Of Contents Video
+  # WATCH ME FIRST PLEASE 
+  ## Table Of Contents Video 
   
   
   https://youtu.be/UrDaRygjyWM
