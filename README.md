@@ -11,6 +11,16 @@ this FREE curriculum is designed for a zero-hero type layout with 100% free reso
   
   Email: trent.manager@intertecintl.com
   
+  
+  
+
+
+
+https://user-images.githubusercontent.com/59753390/148491562-5067db29-321a-40a3-8eec-a409dbd95434.mp4
+
+
+
+  
      
    # Time Stamps
     
