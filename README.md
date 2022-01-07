@@ -5,7 +5,7 @@ this FREE curriculum is designed for a zero-hero type layout with 100% free reso
 
   # WATCH ME FIRST PLEASE!
   
-   https://youtu.be/UrDaRygjyWM
+  Main youtube link: https://youtu.be/UrDaRygjyWM
    
   For any questions,concerns,ideas,or clarity please do not hesitate to reach out to the email below!
   
