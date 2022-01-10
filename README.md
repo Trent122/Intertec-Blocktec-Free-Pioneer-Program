@@ -27,19 +27,19 @@ https://user-images.githubusercontent.com/59753390/148491562-5067db29-321a-40a3-
     
     0:00-0:50 Intro
 
-    0:52-2:08 Week 1
+    0:52-2:08 Unit 1
 
-    2:10-3:01 Week 2
+    2:10-3:01 Unit 2
 
-    3:05-3:41 Week 3
+    3:05-3:41 Unit 3
 
     3:45-5:15 Resource List Top 4
 
-    5:20-6:05 Week 4
+    5:20-6:05 Unit 4
 
-    6:10-6:50 Week 5
+    6:10-6:50 Unit 5
 
-    6:55-7:37 Week 6
+    6:55-7:37 Unit 6
 
     8:00-9:05 Extra resource folders,tips,trick,help code along videos
 
