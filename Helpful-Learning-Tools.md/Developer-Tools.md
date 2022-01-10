@@ -15,3 +15,7 @@ https://ethereum.org/en/developers/tutorials/
 
 https://awesomeopensource.com/projects/blockchain
 
+# Dapp University Blockchain Developer Roadmap in 2022
+
+https://youtu.be/JSDuy7v73wI
+
