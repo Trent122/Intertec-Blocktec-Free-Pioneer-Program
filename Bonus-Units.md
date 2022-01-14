@@ -36,5 +36,4 @@ The database is keyed by addresses for each of the programs that have been deplo
 
 This bonus unit will help test ```Blockchain-Project-Ideas.md``` 
 
-# Joseph’s How to become an Ethereum Developer Guide 
-https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
+
