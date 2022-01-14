@@ -35,3 +35,6 @@ The interpreter runs EVM bytecode and is specially designed for creating secure 
 The database is keyed by addresses for each of the programs that have been deployed on the EVM. The value contains the program's bytecode and any associated data.
 
 This bonus unit will help test ```Blockchain-Project-Ideas.md``` 
+
+# Joseph’s How to become an Ethereum Developer Guide 
+https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
