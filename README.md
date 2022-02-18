@@ -46,6 +46,15 @@ https://user-images.githubusercontent.com/59753390/148491562-5067db29-321a-40a3-
     9:08-End Outro
 
   
+  # BlockChain101
+  
+  #### Blockchain Industry Mind-Map Find Your Sector & Discover Something New!
+  
+  ![BLOCKCHAIN](https://user-images.githubusercontent.com/59753390/154719984-89c27ec8-7e47-4105-b050-b3a46cd3b131.png)
+
+  
+  
+  https://static1.squarespace.com/static/60c65ffe21599644a3e04ebe/t/6205264a5897d3057a8b5b9b/1644504654299/BLOCKCHAIN.pdf
 
      
 
