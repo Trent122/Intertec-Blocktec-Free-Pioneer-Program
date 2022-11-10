@@ -9,7 +9,7 @@ this FREE curriculum is designed for a zero-hero type layout with 100% free reso
    
   For any questions,concerns,ideas,or clarity please do not hesitate to reach out to the email below!
   
-  Email: trent.manager@intertecintl.com
+  Email: trent@blocktec.us
   
   
   
